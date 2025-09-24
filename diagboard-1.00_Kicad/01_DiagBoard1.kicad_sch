@@ -12846,7 +12846,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2K2 x 2"
+		(property "Value" "2K2"
 			(at 80.01 115.062 0)
 			(effects
 				(font
@@ -13329,7 +13329,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "C-EU050-024X044"
+		(property "Value" "100nF"
 			(at 166.624 185.039 0)
 			(effects
 				(font
@@ -13611,7 +13611,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_0204/2V"
+		(property "Value" "82R"
 			(at 204.47 49.022 0)
 			(effects
 				(font
@@ -13804,7 +13804,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "82R x 6"
+		(property "Value" "82R"
 			(at 204.47 64.262 0)
 			(effects
 				(font
@@ -14331,7 +14331,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_0204/2V"
+		(property "Value" "82R"
 			(at 204.47 43.942 0)
 			(effects
 				(font
@@ -15332,7 +15332,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_0204/2V"
+		(property "Value" "82R"
 			(at 204.47 54.102 0)
 			(effects
 				(font
@@ -15716,7 +15716,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_0204/2V"
+		(property "Value" "82R"
 			(at 204.47 59.182 0)
 			(effects
 				(font
@@ -16119,7 +16119,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_0204/2V"
+		(property "Value" "2K2"
 			(at 80.01 109.982 0)
 			(effects
 				(font
@@ -16534,7 +16534,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "C-EU050-024X044"
+		(property "Value" "100nF"
 			(at 174.244 185.039 0)
 			(effects
 				(font
@@ -16673,7 +16673,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_0204/2V"
+		(property "Value" "82R"
 			(at 204.47 38.862 0)
 			(effects
 				(font
